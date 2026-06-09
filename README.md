@@ -113,6 +113,10 @@ After editing, reload Zed or restart the window.
 - **macOS**: `~/.config/zed/themes/`
 - **Windows**: `%APPDATA%\Zed\themes\`
 
+## Credits
+
+Special thanks to [meaayu](https://github.com/meaayu) for the initial implementation of this port.
+
 ## Contributing
 
 Found an issue or have a suggestion? Open an issue or PR on the [main Kape repository](https://github.com/kape-theme/kape).
