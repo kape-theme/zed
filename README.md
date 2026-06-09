@@ -47,7 +47,7 @@ Kape is a warm, dark color scheme for **Zed** code editor, rooted in coffee, ear
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/kape-theme/kape-zed.git
+   git clone https://github.com/kape-theme/zed.git
    ```
 
 3. Add to your Zed settings:
