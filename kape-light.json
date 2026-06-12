@@ -1,11 +1,11 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Kape Light",
+  "name": "Kape-light",
   "author": "Gabiuz",
   "contributor": "meaayu",
   "themes": [
     {
-      "name": "Kape Light",
+      "name": "Kape-light",
       "appearance": "light",
       "style": {
         "accents": [
